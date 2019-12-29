@@ -14,7 +14,7 @@ inspired by geekplux
 |---------------|-------|
 | Email         | [1797079433@qq.com](mailto://1797079433@qq.com) |
 | Github        | [@jacklightChen](https://github.com/jacklightChen) |
-| Blog          | [blog.lightina.cn](blog.lightina.cn) |
+| Blog          | [blog.lightina.cn](https://blog.lightina.cn) |
 
 -
 ### Guidelines
